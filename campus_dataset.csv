@@ -1,0 +1,14 @@
+message,label
+There is a bomb in campus,Threat
+Students are fighting near hostel,Threat
+Good morning everyone,Safe
+Library will close at 8 PM,Safe
+Classes are suspended tomorrow,Unverified
+Exam cancelled due to emergency,Unverified
+Someone is carrying a knife,Threat
+Senior is bullying a junior,Threat
+Holiday declared tomorrow,Unverified
+Accident happened near parking area,Threat
+kal dekh lunga tm sbko,Threat
+parking area mai kuch hone wala hai,Suspicious
+
